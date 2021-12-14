@@ -1,0 +1,15 @@
+{
+    "name": "jannie/mptest",
+    "description": "Test MP3 stitcher",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jannie Theunissen",
+            "email": "jannie@onesheep.org"
+        }
+    ],
+    "require": {
+        "falahati/php-mp3": "dev-master"
+    }
+}
